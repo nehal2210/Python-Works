@@ -1,0 +1,13 @@
+how to visiulaize the generated traffic to client (hmara apna portal self generated dash board,-- search online portal that generates visualization report after monitoring traffic)
+1:generating traffi through porxy
+2:generating traffi through lan internet users(umar)
+3:create an application portal that provides multiple users to login and visiualize advertisement(starclicks help)
+(portal will contain links of thosecliebts wh wants to divert traffic to thier websites and portals
+where as those who are visiulizing the adds through clicks or basiclly powns who are generating traffic for websites.)
+3 different dashboards will be created for 3 different rloes (use alexa for help)
+4: ask  Nouman to look for SEO tools 
+5:the application will be in two different parts one showing SEO services for clients 
+where as the 2 web aplication wil be for those people who can earn money by visiulizing/ clicking through adds(application will be masked for proxy so that it cannot be back traced )
+
+
+addjobs mobile number email adress and password and cnic 

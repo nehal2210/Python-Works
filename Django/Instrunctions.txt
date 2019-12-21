@@ -1,0 +1,8 @@
+Django admin --> command he terminal ki jo utilities dikhata he jise ap istemaal kr skte hen.
+e.g: django-admin utility_name name
+django-admin startproject mysite
+reearch:
+DNs server
+tcp/ip 
+Funstion k structure bnane ko pipline kehte hen
+render teen argument leta he request, template ka naam , dictionery->variables ko template me bhej skte hen is trah

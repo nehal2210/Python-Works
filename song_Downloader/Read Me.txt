@@ -1,0 +1,8 @@
+Steps to Follow:
+1 : open "put_list.txt" in the folder in note pade
+2 : you will find "#"
+3 : replce # with your youtube song link
+4 : Now file just look like this:
+"songlink1","songlink2","#","#","#"
+5 : Save the file and enjoy it.
+6 : after downloading close all the browser
